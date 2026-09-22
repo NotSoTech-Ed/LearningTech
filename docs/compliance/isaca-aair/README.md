@@ -18,6 +18,7 @@ It follows the official AAIR structure of **90 questions across three domains**:
 4. [`assessment-workbook.md`](assessment-workbook.md) — AI use-case, model, control, and risk-treatment assessment worksheets.
 5. [`evidence-register.md`](evidence-register.md) — evidence, testing, findings, and action registers.
 6. [`exam-preparation.md`](exam-preparation.md) — exam readiness, study cadence, original practice questions, and a mock-exam protocol.
+7. [`mock-exam.md`](mock-exam.md) — 90 original domain-aligned questions, answer key, rationales, scoring, and review workflow.
 
 ## Official-source boundary
 
