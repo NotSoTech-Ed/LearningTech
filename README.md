@@ -24,6 +24,7 @@ Work through the material in order. Each module has an outcome, preparation work
 5. Review the role-readiness checklist in the learning path and retain your work as a portfolio.
 6. Use [`docs/compliance/pci-dss-4.0.1/README.md`](docs/compliance/pci-dss-4.0.1/README.md) for the PCI DSS v4.0.1 knowledge base and banking assessment pack.
 7. Complete [`docs/compliance/sox/README.md`](docs/compliance/sox/README.md) for SOX ITGC compliance before starting the [`docs/compliance/soc2-type-ii/README.md`](docs/compliance/soc2-type-ii/README.md) Type II assessment.
+8. Use [`docs/certification-exam-prep/README.md`](docs/certification-exam-prep/README.md) for certification-specific learning and exam preparation, beginning with [`docs/certification-exam-prep/isaca-aair/README.md`](docs/certification-exam-prep/isaca-aair/README.md).
 
 The complete documentation map is available in [`docs/README.md`](docs/README.md).
 
