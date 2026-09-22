@@ -18,7 +18,7 @@ PCI DSS is a baseline of technical and operational requirements designed to prot
 
 ## 2. Version and applicability notes
 
-PCI DSS v4.0.1 is a limited revision to v4.0, not a new baseline. Use the official v4.0.1 requirements, testing procedures, glossary, and reporting templates. Requirements designated future-dated in v4.0 became effective on **31 March 2025**; an assessment performed now must treat them as applicable unless the official instructions for the engagement say otherwise.
+PCI DSS v4.0.1 is a limited revision to v4.0, not a new baseline. Use the official v4.0.1 requirements, testing procedures, glossary, and reporting templates. Requirements designated future-dated in v4.0 became effective on **31 March 2025**; an assessment performed now should assess those requirements where they apply to the entity's validated scope, using the official instructions for the engagement.
 
 Do not infer compliance from a policy or a vendor certificate. Requirement applicability, scope, control implementation, evidence quality, and testing results must be established for the assessed period.
 
