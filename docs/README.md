@@ -20,6 +20,7 @@ Framework-specific knowledge bases and assessment packs:
 - [`pci-dss-4.0.1/`](compliance/pci-dss-4.0.1/) — PCI DSS v4.0.1 banking assessment
 - [`sox/`](compliance/sox/) — SOX ITGC compliance
 - [`soc2-type-ii/`](compliance/soc2-type-ii/) — SOC 2 Type II assessment
+- [`isaca-aair/`](compliance/isaca-aair/) — ISACA Advanced in AI Risk learning and exam preparation
 
 Each compliance pack follows the same structure:
 
