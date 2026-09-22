@@ -20,6 +20,7 @@ Framework-specific knowledge bases and assessment packs:
 - [`pci-dss-4.0.1/`](compliance/pci-dss-4.0.1/) — PCI DSS v4.0.1 banking assessment
 - [`sox/`](compliance/sox/) — SOX ITGC compliance
 - [`soc2-type-ii/`](compliance/soc2-type-ii/) — SOC 2 Type II assessment
+- [`change-management-audit/`](compliance/change-management-audit/) — audit change logs and detect unapproved changes
 
 ### [`certification-exam-prep/`](certification-exam-prep/)
 
