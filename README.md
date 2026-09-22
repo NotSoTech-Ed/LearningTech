@@ -17,13 +17,15 @@ The programme is based on the role brief provided with this project. It covers:
 
 Work through the material in order. Each module has an outcome, preparation work, a field exercise, and evidence of completion.
 
-1. Read [`docs/01-preparation.md`](docs/01-preparation.md) and complete the baseline assessment.
-2. Follow [`docs/02-learning-path.md`](docs/02-learning-path.md) over six progressive stages.
-3. Practise the cases in [`docs/03-scenarios.md`](docs/03-scenarios.md) without looking at the answer guide first.
-4. Use [`docs/templates.md`](docs/templates.md) to produce executive-ready artefacts.
+1. Read [`docs/learning-path/01-preparation.md`](docs/learning-path/01-preparation.md) and complete the baseline assessment.
+2. Follow [`docs/learning-path/02-learning-path.md`](docs/learning-path/02-learning-path.md) over six progressive stages.
+3. Practise the cases in [`docs/learning-path/03-scenarios.md`](docs/learning-path/03-scenarios.md) without looking at the answer guide first.
+4. Use [`docs/learning-path/templates.md`](docs/learning-path/templates.md) to produce executive-ready artefacts.
 5. Review the role-readiness checklist in the learning path and retain your work as a portfolio.
-6. Use [`docs/pci-dss-4.0.1/README.md`](docs/pci-dss-4.0.1/README.md) for the PCI DSS v4.0.1 knowledge base and banking assessment pack.
-7. Complete [`docs/sox/README.md`](docs/sox/README.md) for SOX ITGC compliance before starting the [`docs/soc2-type-ii/README.md`](docs/soc2-type-ii/README.md) Type II assessment.
+6. Use [`docs/compliance/pci-dss-4.0.1/README.md`](docs/compliance/pci-dss-4.0.1/README.md) for the PCI DSS v4.0.1 knowledge base and banking assessment pack.
+7. Complete [`docs/compliance/sox/README.md`](docs/compliance/sox/README.md) for SOX ITGC compliance before starting the [`docs/compliance/soc2-type-ii/README.md`](docs/compliance/soc2-type-ii/README.md) Type II assessment.
+
+The complete documentation map is available in [`docs/README.md`](docs/README.md).
 
 > **Important:** This is a learning aid, not legal or regulatory advice. Validate every regulatory interpretation against current RBI directions, applicable laws, card-brand rules, contractual obligations, and advice from the organisation's legal and compliance teams.
 
