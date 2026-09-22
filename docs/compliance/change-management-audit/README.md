@@ -10,6 +10,7 @@ It applies to banking applications, infrastructure, cloud services, databases, n
 2. [`assessment-method.md`](assessment-method.md) — step-by-step audit procedure, reconciliation, sampling, testing, and conclusions.
 3. [`audit-workbook.md`](audit-workbook.md) — change traceability, interview questions, sample tests, and exception evaluation.
 4. [`evidence-register.md`](evidence-register.md) — evidence, population, sample, exception, and remediation registers.
+5. [`demonstration-guide.md`](demonstration-guide.md) — a complete banking example showing how to demonstrate one change and prove population completeness.
 
 ## Core audit question
 
