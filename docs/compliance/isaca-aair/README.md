@@ -23,4 +23,10 @@ It follows the official AAIR structure of **90 questions across three domains**:
 
 This is an original learning and assessment aid. It does not reproduce ISACA study materials, exam questions, answer explanations, or copyrighted content. Always confirm eligibility, exam policy, current content outline, registration, and official preparation resources at the [ISACA AAIR page](https://www.isaca.org/credentialing/aair) and [official exam content outline](https://www.isaca.org/credentialing/aair/aair-exam-content-outline).
 
+## AI-generated content disclaimer
+
+All content in this AAIR learning pack was generated and structured through AI prompting for educational preparation. No official ISACA study guide, exam question, answer explanation, candidate handbook, or other proprietary ISACA document was uploaded to create this pack. The pack is not an official ISACA publication, course, study guide, endorsement, or representation of ISACA's examination content.
+
+The material may contain omissions, simplifications, outdated information, or errors. Treat it as a starting point for learning and discussion, not as authoritative certification guidance. Verify every eligibility, domain, weighting, policy, and exam-format detail against current information published directly by ISACA. Do not use this pack as a substitute for official ISACA materials, professional instruction, legal advice, or independent professional judgement.
+
 The AAIR credential is intended for experienced IT risk professionals and requires an eligible professional designation. Confirm the current qualifying designations and other requirements directly with ISACA before scheduling.

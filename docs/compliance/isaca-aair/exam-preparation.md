@@ -1,5 +1,7 @@
 # AAIR Exam Preparation
 
+> **Disclaimer:** This exam-preparation material is AI-generated from prompts and high-level public references. No official ISACA documents or proprietary exam content were uploaded to build it. It is not an official ISACA resource and must be checked against ISACA's current published requirements and content outline.
+
 ## 1. Exam-aligned study allocation
 
 Use the official current content outline as the source of truth. The current outline describes a 90-question exam across:
