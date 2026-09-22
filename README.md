@@ -23,6 +23,7 @@ Work through the material in order. Each module has an outcome, preparation work
 4. Use [`docs/templates.md`](docs/templates.md) to produce executive-ready artefacts.
 5. Review the role-readiness checklist in the learning path and retain your work as a portfolio.
 6. Use [`docs/pci-dss-4.0.1/README.md`](docs/pci-dss-4.0.1/README.md) for the PCI DSS v4.0.1 knowledge base and banking assessment pack.
+7. Complete [`docs/sox/README.md`](docs/sox/README.md) for SOX ITGC compliance before starting the [`docs/soc2-type-ii/README.md`](docs/soc2-type-ii/README.md) Type II assessment.
 
 > **Important:** This is a learning aid, not legal or regulatory advice. Validate every regulatory interpretation against current RBI directions, applicable laws, card-brand rules, contractual obligations, and advice from the organisation's legal and compliance teams.
 
