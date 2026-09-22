@@ -11,6 +11,8 @@ It applies to banking applications, infrastructure, cloud services, databases, n
 3. [`audit-workbook.md`](audit-workbook.md) — change traceability, interview questions, sample tests, and exception evaluation.
 4. [`evidence-register.md`](evidence-register.md) — evidence, population, sample, exception, and remediation registers.
 5. [`demonstration-guide.md`](demonstration-guide.md) — a complete banking example showing how to demonstrate one change and prove population completeness.
+6. [`repository-audit-evidence.md`](repository-audit-evidence.md) — evidence generated from this repository's current Git branch.
+7. [`repository-audit-report.md`](repository-audit-report.md) — scoped conclusion, findings, limitations, and management actions.
 
 ## Core audit question
 
